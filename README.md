@@ -12,6 +12,6 @@ The project aimed to create a user-friendly interface for a property renting ser
 
 3. Testing: Implemented comprehensive unit and UI testing using Cypress and React Testing Library to ensure functionality and reliability across different components and user scenarios.
 
-4. I woked individually on this assignment, adhering to project deadlines and milestones.
+4. I worked individually on this assignment, adhering to project deadlines and milestones.
 
 5. Originality and Innovation: Demonstrated creativity in UI design elements and feature implementations, aiming for a modern and intuitive user experience.
